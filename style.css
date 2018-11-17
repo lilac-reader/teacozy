@@ -1,0 +1,5 @@
+body {margin: 0;}
+* {background-color: black}
+.logo img{height:50px;padding-left:10px;}
+.container{display:flex; justify-content:space-between;height:69px;border-bottom: 1px solid seashell;align-items:center;}
+.container span{color:seashell; text-decoration:underline;font-family:helvetica;font-size:22px;opacity:.9;padding-left:15px;padding-right:10px;}
