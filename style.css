@@ -34,3 +34,7 @@ align-items:center;
 justify-content:space-between;}
 .box{width:300px; height:300px;display:flex;justify-content:center;align-items:center;}
 .location-text{text-align:center;}
+/* contact section*/
+.contact{height:200px;text-align:center;}
+/*footer section*/
+.footer{padding-left:20px;}
