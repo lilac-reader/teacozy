@@ -1,5 +1,15 @@
-body {margin: 0;}
+body {margin: 0;
+color:seashell;font-family:helvetica;font-size:22px;opacity:.9;}
 * {background-color: black}
 .logo img{height:50px;padding-left:10px;}
 .container{display:flex; justify-content:space-between;height:69px;border-bottom: 1px solid seashell;align-items:center;}
-.container span{color:seashell; text-decoration:underline;font-family:helvetica;font-size:22px;opacity:.9;padding-left:15px;padding-right:10px;}
+.container span{text-decoration:underline;padding-left:15px;padding-right:10px;}
+.content{padding: 0px 20px;}
+.mission{background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+height:700px;
+width:1200px;
+display:flex;
+align-items:center;
+justify-content:center;}
+.mission-text{width:1200px;}
+.mission-text h2, h4{text-align:center;}
