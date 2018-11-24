@@ -5,6 +5,7 @@ color:seashell;font-family:helvetica;font-size:22px;opacity:.9;}
 .container{display:flex; justify-content:space-between;height:69px;border-bottom: 1px solid seashell;align-items:center;}
 .container span{text-decoration:underline;padding-left:15px;padding-right:10px;}
 .content{padding: 0px 20px;}
+/*mission section*/
 .mission{background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
 height:700px;
 width:1200px;
@@ -13,3 +14,11 @@ align-items:center;
 justify-content:center;}
 .mission-text{width:1200px;}
 .mission-text h2, h4{text-align:center;}
+/* tea of the month section*/
+.tea-of-the-month{width:1000px;}
+.featured-tea{display:flex;justify-content:center;}
+.totm-text{text-align:center;}
+.totm-imgs{display:flex; justify-content:space-between;}
+.totm-imgs-2{display:flex;flex-flow:row;justify-content:space-around;}
+.totm-imgs img{height:200px; width:300px;}
+.totm-imgs-2 img{height:200px; width:300px;}
